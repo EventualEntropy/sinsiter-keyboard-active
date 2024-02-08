@@ -1,3 +1,24 @@
 [submodule "marbastlib"]
 	path = marbastlib
 	url = https://github.com/ebastler/marbastlib
+[submodule "AlexandriaLib/acheron_Symbols"]
+	path = AlexandriaLib/acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols
+[submodule "AlexandriaLib/acheron_3D"]
+	path = AlexandriaLib/acheron_3D
+	url = https://github.com/AcheronProject/acheron_3D
+[submodule "AlexandriaLib/acheron_components.pretty"]
+	path = AlexandriaLib/acheron_components.pretty
+	url = https://github.com/AcheronProject/acheron_components.pretty
+[submodule "AlexandriaLib/acheron_connectors.pretty"]
+	path = AlexandriaLib/acheron_connectors.pretty
+	url = https://github.com/AcheronProject/acheron_connectors.pretty
+[submodule "AlexandriaLib/acheron_hardware.pretty"]
+	path = AlexandriaLib/acheron_hardware.pretty
+	url = https://github.com/AcheronProject/acheron_hardware.pretty
+[submodule "AlexandriaLib/acheron_MXH_wafflepads.pretty"]
+	path = AlexandriaLib/acheron_MXH_wafflepads.pretty
+	url = https://github.com/AcheronProject/acheron_MXH_wafflepads.pretty
+[submodule "AlexandriaLib/acheron_MX.pretty"]
+	path = AlexandriaLib/acheron_MX.pretty
+	url = https://github.com/AcheronProject/acheron_MX.pretty

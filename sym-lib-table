@@ -3,4 +3,5 @@
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-promicroish")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-promicroish.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "acheron_Symbols")(type "KiCad")(uri "${KIPRJMOD}/AlexandriaLib/acheron_Symbols/acheron_Symbols.kicad_sym")(options "")(descr ""))
 )
